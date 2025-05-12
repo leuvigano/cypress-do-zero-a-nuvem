@@ -48,6 +48,5 @@ Ao clicar no link [Política de Privacidade](https://cac-tat-v3.s3.eu-central-1.
 
 Durante o curso, desafio você a testar todas as funcionalidades da aplicação CAC TAT, além de configurar um _workflow_ de integração contínua que é executado quando alterações são enviadas para o GitHub, e integração com o Cypress Cloud, para se beneficiar de dados analíticos de testes, gestão de testes, _replay_ dos testes e muito mais.
 
-Espero que você esteja tão ansioso(a) para começar quanto eu para guiá-lo(a) ao longo do caminho! 🧑‍🏫
 
 Vá para a [lição 0](./0.md) para configurar o projeto de testes.
