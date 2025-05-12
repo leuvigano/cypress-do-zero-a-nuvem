@@ -4,7 +4,7 @@
 
 É muito bom tê-lo(a) aqui. Tenho certeza que você vai amar esse curso. 
 
-## O que você vai aprender?
+## O que vamos aprender?
 
 - Como configurar um projeto Cypress do zero
 - Como visitar páginas locais e remotas
