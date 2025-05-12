@@ -1,12 +1,8 @@
-# 🥳 Parabéns, você conseguiu! 🎉
+#  Parabéns, finalizamos o curso! 🎉
 
-Que jornada, hein?
+Espero que tenha gostado do curso!
 
-Espero que tenha gostado do curso tanto quanto gostei de te ensinar.
-
-Neste mesmo [repositório](https://github.com/wlsf82/cypress-do-zero-a-nuvem), você irá encontrar soluções para todos os exercícios, cada um com seu específico [commit](https://github.com/wlsf82/cypress-do-zero-a-nuvem/commits/final-solution), caso você queira consultar.
-
-A propósito, não esqueça de deixar uma estrela. ⭐
+Neste mesmo [repositório](https://github.com/leuvigano/cypress-do-zero-a-nuvem), você irá encontrar soluções para todos os exercícios, cada um com seu específico [commit](https://github.com/wlsf82/cypress-do-zero-a-nuvem/commits/final-solution), caso você queira consultar.
 
 Vamos recapitular o que você aprendeu?
 
@@ -27,12 +23,8 @@ No curso **Cypress, do Zero à Nuvem**, você aprendeu:
 
 Agora é hora de colocar os novos conhecimentos em prática!
 
-Você quer manter contato comigo? Participe do grupo [**Talking About Testing**](https://www.linkedin.com/groups/12492726/) no LinkedIn.
+Você quer manter contato comigo? Participe do grupo [**Talking About Testing**](https://www.linkedin.com/in/leonardo-martins-889556a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) no LinkedIn.
 
-Confira também os [outros cursos](https://www.udemy.com/user/walmyr/) da Escola Talking About Testing.
-
-> Por fim, compartilhe o certificado do curso em seu perfil do LinkedIn para mostrar que você pode criar testes automatizados e2e com Cypress e executá-los em um _workflow_ de integração contínua integrado ao Cypress Cloud. Use as _hashtags_ **#TalkingAboutTesting #EscolaTAT #CypressDoZeroANuvem #Cypress #CypressCloud #GitHubActions**.
-
-**Obs.:** Lembre-se de me marcar em sua postagem. [Aqui está meu perfil no LinkedIn](https://www.linkedin.com/in/walmyr-lima-e-silva-filho).
+**Obs.:** Lembre-se de me marcar em sua postagem. [Aqui está meu perfil no LinkedIn](https://www.linkedin.com/in/leonardo-martins-889556a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app).
 
 Bons testes! 🚀
