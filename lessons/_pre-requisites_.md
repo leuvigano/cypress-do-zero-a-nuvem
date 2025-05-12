@@ -4,7 +4,7 @@ Para a realização do curso, há sistemas que precisam estar instalados e conhe
 
 ## Sistemas
 
-Antes de começar, certifique-se de que os seguintes sistemas estejam instalados em seu computador.
+Antes de começar, certifique-se de que os seguintes sistemas estejam instalados no seu computador.
 
 - [git](https://git-scm.com/) (`2.42.1` no momento da redação deste artigo)
 - [Node.js](https://nodejs.org/en/) (`v20.13.1` no momento da redação deste artigo)
