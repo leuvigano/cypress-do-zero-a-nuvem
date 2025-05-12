@@ -23,8 +23,6 @@ No curso **Cypress, do Zero à Nuvem**, você aprendeu:
 
 Agora é hora de colocar os novos conhecimentos em prática!
 
-Você quer manter contato comigo? Participe do grupo [**Talking About Testing**](https://www.linkedin.com/in/leonardo-martins-889556a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) no LinkedIn.
-
 **Obs.:** Lembre-se de me marcar em sua postagem. [Aqui está meu perfil no LinkedIn](https://www.linkedin.com/in/leonardo-martins-889556a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app).
 
 Bons testes! 🚀
